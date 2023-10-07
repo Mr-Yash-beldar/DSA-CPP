@@ -1,4 +1,4 @@
-//half pyramid pattern
+//inverted half pyramid pattern
 
 #include <iostream>
 using namespace std;
